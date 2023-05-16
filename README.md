@@ -1,5 +1,5 @@
 # AAAI2023_AWD
-code and data for AAAI2023 paper "Adversarial Word Dilution as Text Data Augmentation in Low-Resource"
+code and data for AAAI2023 paper "Adversarial Word Dilution as Text Data Augmentation in Low-Resource Regime"
 
 ## Prepare dataset
 
